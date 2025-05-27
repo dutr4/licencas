@@ -22,7 +22,7 @@ Sistema para gerenciar licenças de software, notas fiscais e inventário, desen
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/licencas.git
+git clone https://github.com/dutr4/licencas.git
 cd licencas
 ```
 
@@ -49,8 +49,8 @@ Isso irá:
 
 ## 👤 Usuário Administrador Padrão
 
-- **Email:** admin@example.com  
-- **Senha:** admin123  
+- **Email:** admin@email.com  
+- **Senha:** admin54321  
 
 ---
 
@@ -72,7 +72,7 @@ php artisan key:generate
 echo "🛠️ Executando instalação do sistema..."
 php artisan install
 
-echo "✅ Instalação completa! Acesse o sistema e faça login com: admin@example.com / admin123"
+echo "✅ Instalação completa! Acesse o sistema e faça login com: admin@email.com / admin54321"
 ```
 
 ---
