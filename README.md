@@ -109,5 +109,5 @@ php artisan install
 
 ## 📝 Licença
 
-MIT
->>>>>>> 4d5983954891169ea416e8cda92619193d171a4f
+Este projeto está licenciado sob os termos da Licença MIT.  
+Veja o arquivo [LICENSE](LICENSE) para mais informações.
