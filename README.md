@@ -1,7 +1,3 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-
 # Sistema de Licenciamento
 
 Sistema para gerenciar licenças de software, notas fiscais e inventário, desenvolvido em Laravel.
